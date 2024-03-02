@@ -18,6 +18,6 @@
 - 已适配导入开学时间的功能（导入的研究生时间，因为本科生时间在旧学期上有BUG）。
 - 已适配新版本研综合教务系统。
 
-### 注：主要内容不在先前版本开发，故不再保留更新日志
+### 鸣谢：
 
-### 鸣谢：[MeanZhang/buaa-ai-schedule: 小爱课程表北京航空航天大学-本科教务管理系统课程导入 (github.com)](https://github.com/MeanZhang/buaa-ai-schedule)
+[MeanZhang/buaa-ai-schedule: 小爱课程表北京航空航天大学-本科教务管理系统课程导入 (github.com)](https://github.com/MeanZhang/buaa-ai-schedule)
